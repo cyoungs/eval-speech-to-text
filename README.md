@@ -1,6 +1,8 @@
 # eval-speech-to-text
 
-Parts: Contains samples of Mozilla's Common Voice data converted to .wav files.
+fast.py originally from https://www.alexkras.com/transcribing-audio-file-to-text-with-google-cloud-speech-api-and-python/ with some edits in my version
+
+parts: Contains samples of Mozilla's Common Voice data converted to .wav files.
 
 requirements.txt : required to run the fast.py code
 
